@@ -2,6 +2,13 @@
 ~~~
 카카오톡 화면을 HTML&CSS 를 이용해 웹에서 구현한 클론 프로젝트입니다
 ~~~
+~~~
+1. 각 화면을 html 파일로 나눈 후, 구조를 잡았습니다
+2. 각 html에 맞게 css 파일을 작성했고, screens 디렉토리에 모아두었습니다
+3. 각 구성에 대한 css는 components에 있습니다
+4. 동적인 효과는 transform과 animation을 통해서 구현했습니다
+5. id보다는 class를 규칙을 가지고 작성했습니다
+~~~
 
 ## Kokoa 초기화면
 <img width="498" alt="카카오 초기화면" src="https://user-images.githubusercontent.com/75306311/111929842-db432580-8afa-11eb-9dc9-ed19493b3e11.png">
